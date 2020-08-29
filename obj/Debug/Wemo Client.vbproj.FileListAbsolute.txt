@@ -1,0 +1,10 @@
+c:\users\jorge\documents\visual studio 2017\Projects\Wemo Client\Wemo Client\bin\Debug\Wemo Client.exe.config
+c:\users\jorge\documents\visual studio 2017\Projects\Wemo Client\Wemo Client\bin\Debug\Wemo Client.exe
+c:\users\jorge\documents\visual studio 2017\Projects\Wemo Client\Wemo Client\bin\Debug\Wemo Client.pdb
+c:\users\jorge\documents\visual studio 2017\Projects\Wemo Client\Wemo Client\bin\Debug\Wemo Client.xml
+c:\users\jorge\documents\visual studio 2017\Projects\Wemo Client\Wemo Client\obj\Debug\Wemo Client.vbprojResolveAssemblyReference.cache
+c:\users\jorge\documents\visual studio 2017\Projects\Wemo Client\Wemo Client\obj\Debug\Wemo_Client.Resources.resources
+c:\users\jorge\documents\visual studio 2017\Projects\Wemo Client\Wemo Client\obj\Debug\Wemo Client.vbproj.GenerateResource.Cache
+c:\users\jorge\documents\visual studio 2017\Projects\Wemo Client\Wemo Client\obj\Debug\Wemo Client.exe
+c:\users\jorge\documents\visual studio 2017\Projects\Wemo Client\Wemo Client\obj\Debug\Wemo Client.xml
+c:\users\jorge\documents\visual studio 2017\Projects\Wemo Client\Wemo Client\obj\Debug\Wemo Client.pdb
